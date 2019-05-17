@@ -1,4 +1,4 @@
-# RaspberryPi-Freertos_app_with_SIL3-standard
+# RaspberryPi-mini UART driver and Freertos_app_with_SIL3-standard
 Updating Freertos source code with IEC61508 standards and showcasing the test scenarios on console/gpio-led
 
 ---------------------------------------------------------------------
